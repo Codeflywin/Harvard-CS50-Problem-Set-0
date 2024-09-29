@@ -7,3 +7,6 @@ Created Backdrop image via Google Gemini Imagen 3<br>
 Added backdrop to scratch file<br>
 Created “Press any key” sprite<br>
 Added 8 bit Menu by David Renda from https://www.fesliyanstudios.com/<br>
+............................Ver. 1.01............................<p>
+Added conditional play sound
+Added conditional "press any key" sprite flash
